@@ -18,7 +18,7 @@
     "moment": "^2.22.2",
     "pekon-wx-common": "^1.0.11",
     "qrcode.react": "^0.8.0",
-    "qs": "^6.5.2",
+    "qs": "^6.7.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-loadable": "^5.4.0",
